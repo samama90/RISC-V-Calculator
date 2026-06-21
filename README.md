@@ -185,7 +185,3 @@ This project was developed as part of a Computer Organization and Assembly Langu
 Computer Organization & Assembly Language (COAL)
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
